@@ -2,7 +2,7 @@
 
 This directory contains the codes for the new experiments that were conducted as part of the revision process. Below is a summary of each experiment and instructions on how to run them.
 
-## Experiment 1: Hermes
+## Hermes in PlainText
 
 This experiment implements the Hermes algorithm in plaintext. To run the experiment, use the following command:
 ```bash
